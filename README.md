@@ -11,5 +11,5 @@ Example:
 ```
 ## Permission
 
-- `bancraft.bypass` bypass blacklisted item. Usually for admins.
+- `bancraft.bypass` bypass blacklisted items. Usually for admins.
 - `bancraft.banall` deny all crafting.
